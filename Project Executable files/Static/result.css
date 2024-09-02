@@ -1,0 +1,46 @@
+body{
+    background-image: url("credit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    align-items: center;
+    text-align: center;
+    color:white;
+}
+p{
+    color: white;
+    font-size: 25px;
+    height: 25px;
+    margin-top: 100px;
+    text-align: center;
+    border-radius: 10px;
+    border: 10px;
+}
+.return{
+    color: white;
+    margin-top: 430px;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+
+}
+#r1{
+    border: 10px;
+    
+    color:white;
+    padding-right: 10px;
+    background-color:blue;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+#r2{
+    border: 10px;
+    border-color:white;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color:blue;
+    border-radius: 8px;
+}
